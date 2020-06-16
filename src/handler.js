@@ -1,7 +1,5 @@
 "use strict";
 
-const AWS = require('aws-sdk');
-
 // ------------------------
 // Bolt App Initialization
 // ------------------------

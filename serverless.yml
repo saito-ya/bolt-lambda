@@ -1,7 +1,4 @@
-# sls deploy
-# sls remove
-
-service: bolt-slack
+service: bolt-lambda
 
 provider:
   name: aws
