@@ -10,7 +10,7 @@
   "dependencies": {
     "@slack/bolt": "^2.1.1",
     "@slack/logger": "^2.0.0",
-    "aws-sdk": "^2.630.0",
+    "aws-sdk": "^2.814.0",
     "aws-serverless-express": "^3.3.6",
     "request": "^2.88.2"
   },
